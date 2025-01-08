@@ -1,0 +1,11 @@
+/* styles.css */
+.logo {
+    width: 50px; /* Adjust width as needed */
+    height: 50px; /* Maintain aspect ratio */
+    display: block;
+    margin: 0 auto; /* Center the logo */
+}
+.card-img-top {
+    width: 286px;
+    height: 250px;
+  }
